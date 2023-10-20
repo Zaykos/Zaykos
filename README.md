@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently as a CERT Analyst Intern and would like to go to pentest eventually
+- 🔭 I’m currently working as a CERT Analyst Intern and would like to go to pentest eventually
 - 🌱 I’m currently learning pentesting in general and especially Active Directory
 
 <!--
