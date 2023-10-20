@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently as a CERT Analyst Intern and would like to go to pentest eventually
+- 🌱 I’m currently learning pentesting in general and especially Active Directory
+
 <!--
 **Zaykos/Zaykos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
