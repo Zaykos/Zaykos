@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi/Plop there 👋
 
 - 🔭 I’m currently working as a CERT Analyst Intern and would like to go to pentest eventually
 - 🌱 I’m currently learning pentesting in general (HTB Boxes and ProLabs, CTF) and especially Active Directory
