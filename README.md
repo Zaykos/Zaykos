@@ -1,6 +1,6 @@
 ### Hi/Plop there 👋
 
-- 🔭 I’m currently working as a Junior Pentester Intern.
+- 🔭 I’m currently working as a Junior Pentester Apprentice
 - 🌱 I’m currently learning pentesting in general (HTB Boxes and ProLabs, CTF) and especially Active Directory
 
 <!--
